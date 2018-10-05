@@ -1,0 +1,23 @@
+{
+  "name": "dvpnt-bunyan",
+  "version": "1.0.0",
+  "description": "bunyan express logger and pretty stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvpnt/dvpnt-bunyan.git"
+  },
+  "author": "dvpnt",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/dvpnt/dvpnt-bunyan/issues"
+  },
+  "homepage": "https://github.com/dvpnt/dvpnt-bunyan#readme",
+  "dependencies": {
+    "bunyan": "1.8.12",
+    "chalk": "2.4.1"
+  }
+}

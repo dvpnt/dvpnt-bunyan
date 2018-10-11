@@ -4,7 +4,7 @@
   "description": "bunyan express logger and pretty stream",
   "main": "./lib/index.js",
   "scripts": {
-    "lint": "eslint"
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
